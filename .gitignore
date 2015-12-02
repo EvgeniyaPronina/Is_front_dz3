@@ -1,0 +1,10 @@
+bower/
+dev_ignore/
+workfiles-ignore/
+node_modules/
+.sass-cache/
+.idea/
+try_sqlite/
+vendor/
+composer.lock
+composer.phar
